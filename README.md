@@ -16,3 +16,11 @@ the function and run automatically when you commit through a GitHub action.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+## My Analysis
+
+My 
+
+## sources
+
+https://www.w3schools.com/jsref/jsref_shift.asp - how to remove the first element in an array
